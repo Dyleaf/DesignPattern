@@ -1,4 +1,4 @@
-package behavior.MementoPattern.WhiteBox;
+package com.dyleaf.behavior.MementoPattern.WhiteBox;
 
 public class Test {
     public static void main(String[] args) {

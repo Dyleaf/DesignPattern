@@ -1,4 +1,4 @@
-package behavior.VistorPattern;
+package com.dyleaf.behavior.VistorPattern;
 
 public interface Visitor {
 

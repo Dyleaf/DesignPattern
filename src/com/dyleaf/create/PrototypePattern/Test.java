@@ -1,4 +1,4 @@
-package create.PrototypePattern;
+package com.dyleaf.create.PrototypePattern;
 
 public class Test {
     public static void main(String[] args) throws CloneNotSupportedException {

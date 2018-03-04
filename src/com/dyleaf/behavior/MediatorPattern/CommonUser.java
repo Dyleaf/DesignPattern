@@ -1,4 +1,4 @@
-package behavior.MediatorPattern;
+package com.dyleaf.behavior.MediatorPattern;
 
 public class CommonUser extends User{
 
@@ -14,6 +14,5 @@ public class CommonUser extends User{
     protected void getMessage(String msg) {
         System.out.println(this.getName() +  " get msg:"+msg);
     }
-
 
 }

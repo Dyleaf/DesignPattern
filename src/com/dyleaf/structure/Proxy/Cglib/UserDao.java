@@ -1,4 +1,4 @@
-package structure.Proxy.Cglib;
+package com.dyleaf.structure.Proxy.Cglib;
 
 public class UserDao {
     public void save(){

@@ -1,4 +1,4 @@
-package structure.BridgePattern;
+package com.dyleaf.structure.BridgePattern;
 
 public class Client {
 

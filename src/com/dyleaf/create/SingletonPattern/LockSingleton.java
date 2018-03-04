@@ -1,4 +1,4 @@
-package create.SingletonPattern;
+package com.dyleaf.create.SingletonPattern;
 
 public class LockSingleton{
     private volatile static LockSingleton singleton;

@@ -1,4 +1,4 @@
-package structure.FlyweightPattern.Simple;
+package com.dyleaf.structure.FlyweightPattern.Simple;
 
 public class Test {
     public static void main(String[] args) {

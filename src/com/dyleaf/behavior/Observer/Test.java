@@ -1,4 +1,4 @@
-    package behavior.Observer;
+    package com.dyleaf.behavior.Observer;
 
     public class Test {
         public static void main(String[] args) {

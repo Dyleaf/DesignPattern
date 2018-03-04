@@ -1,4 +1,4 @@
-package structure.FacadePattern;
+package com.dyleaf.structure.FacadePattern;
 
 public class Test {
     public static void main(String[] args) {

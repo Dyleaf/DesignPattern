@@ -1,4 +1,4 @@
-package behavior.TemplateMethodPattern;
+package com.dyleaf.behavior.TemplateMethodPattern;
 
 public class Test {
     public static void main(String[] args) {

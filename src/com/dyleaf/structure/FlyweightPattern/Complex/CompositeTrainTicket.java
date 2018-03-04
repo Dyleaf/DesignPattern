@@ -1,4 +1,4 @@
-package structure.FlyweightPattern.Complex;
+package com.dyleaf.structure.FlyweightPattern.Complex;
 
 import java.util.HashMap;
 import java.util.Map;

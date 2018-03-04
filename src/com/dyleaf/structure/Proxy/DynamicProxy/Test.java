@@ -1,7 +1,7 @@
-package structure.Proxy.DynamicProxy;
+package com.dyleaf.structure.Proxy.DynamicProxy;
 
-import structure.Proxy.StaticProxy.UserDao;
-import structure.Proxy.StaticProxy.UserDaoImpl;
+import com.dyleaf.structure.Proxy.StaticProxy.UserDao;
+import com.dyleaf.structure.Proxy.StaticProxy.UserDaoImpl;
 
 public class Test {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package structure.Proxy.RemoteProxy;
+package com.dyleaf.structure.Proxy.RemoteProxy;
 
 import java.net.MalformedURLException;
 import java.rmi.Naming;

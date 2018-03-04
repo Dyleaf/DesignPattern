@@ -1,4 +1,4 @@
-package create.SingletonPattern;
+package com.dyleaf.create.SingletonPattern;
 
 class InternalSingleton {
     private static class SingletonHolder {

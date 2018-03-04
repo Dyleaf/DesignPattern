@@ -1,4 +1,4 @@
-package behavior.ChainOfResponsibilityPattern;
+package com.dyleaf.behavior.ChainOfResponsibilityPattern;
 
 public class LeaveRequest {
     private String empName;//请假人

@@ -1,4 +1,4 @@
-package behavior.StatePattern;
+package com.dyleaf.behavior.StatePattern;
 
 public class StateContext {
     IState state;

@@ -1,4 +1,4 @@
-package behavior.ChainOfResponsibilityPattern;
+package com.dyleaf.behavior.ChainOfResponsibilityPattern;
 
 /**
  * 抽象类：管理责任链上的对象处理的抽象类

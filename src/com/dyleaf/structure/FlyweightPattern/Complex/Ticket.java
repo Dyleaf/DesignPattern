@@ -1,4 +1,4 @@
-package structure.FlyweightPattern.Complex;
+package com.dyleaf.structure.FlyweightPattern.Complex;
 
 /**
  * 抽象享元类

@@ -1,4 +1,4 @@
-package behavior.StrategyPattern;
+package com.dyleaf.behavior.StrategyPattern;
 
 public class Test {
     public static void main(String[] args) {
@@ -8,4 +8,5 @@ public class Test {
         context = new Context(new DriveStrategy());
         context.execute();
     }
+
 }

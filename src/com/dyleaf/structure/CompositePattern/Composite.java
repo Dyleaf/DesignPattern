@@ -1,4 +1,4 @@
-package structure.CompositePattern;
+package com.dyleaf.structure.CompositePattern;
 
 import java.util.ArrayList;
 import java.util.List;

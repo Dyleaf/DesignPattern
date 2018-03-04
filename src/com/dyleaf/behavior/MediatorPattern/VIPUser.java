@@ -1,4 +1,4 @@
-package behavior.MediatorPattern;
+package com.dyleaf.behavior.MediatorPattern;
 
 public class VIPUser extends User{
     public VIPUser(String name) {

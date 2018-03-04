@@ -1,4 +1,4 @@
-package behavior.MementoPattern.BlackBox;
+package com.dyleaf.behavior.MementoPattern.BlackBox;
 
 public interface MemotoIF {
 }

@@ -1,4 +1,4 @@
-package behavior.ChainOfResponsibilityPattern;
+package com.dyleaf.behavior.ChainOfResponsibilityPattern;
 
 //经理
 public class Manager extends Leader {

@@ -1,4 +1,4 @@
-package behavior.ItertorPattern.WhiteBox;
+package com.dyleaf.behavior.ItertorPattern.WhiteBox;
 
 public class Test {
     public static void main(String[] args) {

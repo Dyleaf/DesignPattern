@@ -1,4 +1,4 @@
-package create.SingletonPattern;
+package com.dyleaf.create.SingletonPattern;
 
 enum  EnumSingleton {
     INSTANCE;

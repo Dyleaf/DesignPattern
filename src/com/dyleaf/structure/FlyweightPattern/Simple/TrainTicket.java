@@ -1,4 +1,4 @@
-package structure.FlyweightPattern.Simple;
+package com.dyleaf.structure.FlyweightPattern.Simple;
 
 import java.util.Random;
 

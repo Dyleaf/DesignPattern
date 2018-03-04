@@ -1,4 +1,4 @@
-package structure.Proxy.Cglib;
+package com.dyleaf.structure.Proxy.Cglib;
 
 import org.springframework.cglib.proxy.Enhancer;
 import org.springframework.cglib.proxy.MethodInterceptor;

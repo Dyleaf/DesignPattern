@@ -1,4 +1,4 @@
-package behavior.StrategyPattern;
+package com.dyleaf.behavior.StrategyPattern;
 
 public class WalkStrategy implements IStrategy {
     @Override

@@ -1,4 +1,4 @@
-package structure.Adapter;
+package com.dyleaf.structure.Adapter;
 
 /**
  * 手机类

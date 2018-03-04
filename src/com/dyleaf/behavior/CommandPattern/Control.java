@@ -1,5 +1,5 @@
-package behavior.CommandPattern;
-
+package com.dyleaf.behavior.CommandPattern;
+//可以看作是遥控器Invoker
 public class Control {
     private Command onCommand, offCommand, changeChannel;
 

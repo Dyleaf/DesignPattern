@@ -1,4 +1,4 @@
-package behavior.Observer;
+package com.dyleaf.behavior.Observer;
 
 public interface Watched {
     public void addWatcher(Watcher watcher);

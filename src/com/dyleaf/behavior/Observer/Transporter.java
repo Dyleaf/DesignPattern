@@ -1,4 +1,4 @@
-package behavior.Observer;
+package com.dyleaf.behavior.Observer;
 
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package create.PrototypePattern;
+package com.dyleaf.create.PrototypePattern;
 
 public class Cell implements Cloneable {
     private int cellId;

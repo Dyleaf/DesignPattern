@@ -2,53 +2,307 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd5f966-efb6-4f93-8c20-241dbe66a4d1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Adapter/Phone.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Adapter/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Adapter/VoltageAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Decorator/Beverage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Decorator/CondimentDecorator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Decorator/Espresso.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Decorator/HouseBlend.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Decorator/Mocha.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Decorator/Soy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Decorator/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Observer/Police.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Observer/Security.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Observer/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Observer/Thief.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Observer/Transporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Observer/Watched.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Observer/Watcher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Proxy/MyRemote.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Proxy/MyRemoteImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Proxy/Proxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Proxy/ProxyClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/behavior/Observer/Police.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/behavior/Observer/Security.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/behavior/Observer/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/behavior/Observer/Thief.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/behavior/Observer/Transporter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/behavior/Observer/Watched.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/behavior/Observer/Watcher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/behavior/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/create/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/structure/Adapter/Phone.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/structure/Adapter/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/structure/Adapter/VoltageAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/structure/Decorator/Beverage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/structure/Decorator/CondimentDecorator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/structure/Decorator/Espresso.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/structure/Decorator/HouseBlend.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/structure/Decorator/Mocha.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/structure/Decorator/Soy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/structure/Decorator/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/structure/Proxy/RemoteProxy/MyRemote.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/structure/Proxy/RemoteProxy/MyRemoteImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/structure/Proxy/RemoteProxy/Proxy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/structure/Proxy/RemoteProxy/ProxyClient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/structure/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ChainOfResponsibilityPattern/Director.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ChainOfResponsibilityPattern/GeneralManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ChainOfResponsibilityPattern/Leader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ChainOfResponsibilityPattern/LeaveRequest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ChainOfResponsibilityPattern/Manager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ChainOfResponsibilityPattern/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/CommandPattern/Command.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/CommandPattern/CommandChange.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/CommandPattern/CommandOff.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/CommandPattern/CommandOn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/CommandPattern/Control.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/CommandPattern/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/CommandPattern/Tv.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/InterpreterPattern/Colleague.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/InterpreterPattern/Cpu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/InterpreterPattern/MainBoard.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/InterpreterPattern/Mediator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/InterpreterPattern/SoundCard.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/InterpreterPattern/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ItertorPattern/BlackBox/Aggregate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ItertorPattern/BlackBox/ConcreteAggregate$ConcreteIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ItertorPattern/BlackBox/ConcreteAggregate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ItertorPattern/BlackBox/Iterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ItertorPattern/BlackBox/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ItertorPattern/WhiteBox/Aggregate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ItertorPattern/WhiteBox/ConcreteAggregate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ItertorPattern/WhiteBox/ConcreteIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ItertorPattern/WhiteBox/Iterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/ItertorPattern/WhiteBox/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/MediatorPattern/ChatRoomMediator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/MediatorPattern/CommonUser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/MediatorPattern/Mediator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/MediatorPattern/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/MediatorPattern/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/MediatorPattern/VIPUser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/MementoPattern/BlackBox/Caretaker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/MementoPattern/BlackBox/MemotoIF.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/MementoPattern/BlackBox/Originator$Memento.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/MementoPattern/BlackBox/Originator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/MementoPattern/BlackBox/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/MementoPattern/WhiteBox/Caretaker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/MementoPattern/WhiteBox/Memento.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/MementoPattern/WhiteBox/Originator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/MementoPattern/WhiteBox/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/Observer/Police.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/Observer/Security.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/Observer/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/Observer/Thief.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/Observer/Transporter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/Observer/Watched.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/Observer/Watcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/StatePattern/DriveState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/StatePattern/IState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/StatePattern/StateContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/StatePattern/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/StatePattern/WalkState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/StrategyPattern/Context.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/StrategyPattern/DriveStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/StrategyPattern/IStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/StrategyPattern/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/StrategyPattern/WalkStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/TemplateMethodPattern/AbstractPerson.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/TemplateMethodPattern/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/TemplateMethodPattern/Teacher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/TemplateMethodPattern/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/VistorPattern/BusinessReport.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/VistorPattern/CEOVisitor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/VistorPattern/Engineer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/VistorPattern/Manager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/VistorPattern/Staff.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/VistorPattern/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/VistorPattern/Visitor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Act/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/AbstarctFactoryPatttern/AbstractFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/AbstarctFactoryPatttern/AsusComputerHost.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/AbstarctFactoryPatttern/AsusComputerScreen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/AbstarctFactoryPatttern/FactoryAsus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/AbstarctFactoryPatttern/FactoryHP.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/AbstarctFactoryPatttern/HPComputerHost.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/AbstarctFactoryPatttern/HPComputerScreen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/AbstarctFactoryPatttern/Host.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/AbstarctFactoryPatttern/Screen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/AbstarctFactoryPatttern/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/BuilderPattern/Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/BuilderPattern/Computer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/BuilderPattern/Director.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/BuilderPattern/HPBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/BuilderPattern/LenovoBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/BuilderPattern/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/FactoryMethodPattern/AsusComputer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/FactoryMethodPattern/Computer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/FactoryMethodPattern/ConcreteFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/FactoryMethodPattern/Factory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/FactoryMethodPattern/HPComputer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/FactoryMethodPattern/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/PrototypePattern/Cell.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/PrototypePattern/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/SingletonPattern/EnumSingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/SingletonPattern/InternalSingleton$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/SingletonPattern/InternalSingleton$SingletonHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/SingletonPattern/InternalSingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/SingletonPattern/LazySingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/SingletonPattern/LazySingletonEnhence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/SingletonPattern/LockSingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/SingletonPattern/SingletonManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/SingletonPattern/StaffSingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/SingletonPattern/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Create/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Adapter/Phone.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Adapter/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Adapter/VoltageAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/BridgePattern/AbstractionComputer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/BridgePattern/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/BridgePattern/ConcreteImplementorAcer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/BridgePattern/ConcreteImplementorApple.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/BridgePattern/ConcreteImplementorDell.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/BridgePattern/ImplementorBrand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/BridgePattern/RefinedAbstractionDesktop.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/BridgePattern/RefinedAbstractionLaptop.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/BridgePattern/RefinedAbstractionPad.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/CompositePattern/Component.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/CompositePattern/Composite.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/CompositePattern/Leaf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/CompositePattern/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Decorator/Beverage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Decorator/CondimentDecorator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Decorator/Espresso.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Decorator/HouseBlend.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Decorator/Mocha.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Decorator/Soy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Decorator/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/FacadePattern/Amplifier.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/FacadePattern/HomeTheater.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/FacadePattern/Light.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/FacadePattern/TV.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/FacadePattern/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/FlyweightPattern/Complex/CompositeTrainTicket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/FlyweightPattern/Complex/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/FlyweightPattern/Complex/Ticket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/FlyweightPattern/Complex/TicketFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/FlyweightPattern/Complex/TrainTicket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/FlyweightPattern/Simple/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/FlyweightPattern/Simple/Ticket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/FlyweightPattern/Simple/TicketFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/FlyweightPattern/Simple/TrainTicket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Proxy/Cglib/ProxyFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Proxy/Cglib/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Proxy/Cglib/UserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Proxy/DynamicProxy/ProxyFactory$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Proxy/DynamicProxy/ProxyFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Proxy/DynamicProxy/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Proxy/RemoteProxy/MyRemote.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Proxy/RemoteProxy/MyRemoteImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Proxy/RemoteProxy/Proxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Proxy/RemoteProxy/ProxyClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Proxy/StaticProxy/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Proxy/StaticProxy/UserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Proxy/StaticProxy/UserDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/Proxy/StaticProxy/UserDaoProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPattern/Struct/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/Colleague.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/Cpu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/MainBoard.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/Mediator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/SoundCard.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/Computer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/Factory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/Test.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern.iml" afterPath="$PROJECT_DIR$/DesignPattern.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/ChainOfResponsibilityPattern/Director.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/ChainOfResponsibilityPattern/Director.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/ChainOfResponsibilityPattern/GeneralManager.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/ChainOfResponsibilityPattern/GeneralManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/ChainOfResponsibilityPattern/Leader.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/ChainOfResponsibilityPattern/Leader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/ChainOfResponsibilityPattern/LeaveRequest.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/ChainOfResponsibilityPattern/LeaveRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/ChainOfResponsibilityPattern/Manager.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/ChainOfResponsibilityPattern/Manager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/ChainOfResponsibilityPattern/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/ChainOfResponsibilityPattern/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/Command.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/Command.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/CommandChange.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/CommandChange.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/CommandOff.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/CommandOff.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/CommandOn.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/CommandOn.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/Control.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/Control.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/Tv.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/Tv.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/BlackBox/Aggregate.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/BlackBox/Aggregate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/BlackBox/ConcreteAggregate.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/BlackBox/ConcreteAggregate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/BlackBox/Iterator.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/BlackBox/Iterator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/BlackBox/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/BlackBox/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/WhiteBox/Aggregate.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/WhiteBox/Aggregate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/WhiteBox/ConcreteAggregate.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/WhiteBox/ConcreteAggregate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/WhiteBox/ConcreteIterator.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/WhiteBox/ConcreteIterator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/WhiteBox/Iterator.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/WhiteBox/Iterator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/WhiteBox/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/WhiteBox/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/MediatorPattern/ChatRoomMediator.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/MediatorPattern/ChatRoomMediator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/MediatorPattern/CommonUser.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/MediatorPattern/CommonUser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/MediatorPattern/Mediator.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/MediatorPattern/Mediator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/MediatorPattern/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/MediatorPattern/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/MediatorPattern/User.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/MediatorPattern/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/MediatorPattern/VIPUser.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/MediatorPattern/VIPUser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/BlackBox/Caretaker.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/BlackBox/Caretaker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/BlackBox/MemotoIF.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/BlackBox/MemotoIF.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/BlackBox/Originator.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/BlackBox/Originator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/BlackBox/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/BlackBox/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/WhiteBox/Caretaker.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/WhiteBox/Caretaker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/WhiteBox/Memento.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/WhiteBox/Memento.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/WhiteBox/Originator.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/WhiteBox/Originator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/WhiteBox/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/WhiteBox/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/Observer/Police.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/Observer/Police.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/Observer/Security.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/Observer/Security.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/Observer/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/Observer/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/Observer/Thief.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/Observer/Thief.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/Observer/Transporter.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/Observer/Transporter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/Observer/Watched.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/Observer/Watched.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/Observer/Watcher.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/Observer/Watcher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/StatePattern/DriveState.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/StatePattern/DriveState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/StatePattern/IState.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/StatePattern/IState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/StatePattern/StateContext.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/StatePattern/StateContext.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/StatePattern/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/StatePattern/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/StatePattern/WalkState.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/StatePattern/WalkState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/StrategyPattern/Context.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/StrategyPattern/Context.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/StrategyPattern/DriveStrategy.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/StrategyPattern/DriveStrategy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/StrategyPattern/IStrategy.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/StrategyPattern/IStrategy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/StrategyPattern/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/StrategyPattern/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/StrategyPattern/WalkStrategy.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/StrategyPattern/WalkStrategy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/TemplateMethodPattern/AbstractPerson.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/TemplateMethodPattern/AbstractPerson.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/TemplateMethodPattern/Student.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/TemplateMethodPattern/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/TemplateMethodPattern/Teacher.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/TemplateMethodPattern/Teacher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/TemplateMethodPattern/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/TemplateMethodPattern/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/BusinessReport.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/BusinessReport.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/CEOVisitor.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/CEOVisitor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/Engineer.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/Engineer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/Manager.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/Manager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/Staff.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/Staff.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/Visitor.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/Visitor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/AbstractFactory.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/AbstractFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/FactoryAsus.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/FactoryAsus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/FactoryHP.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/FactoryHP.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/Host.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/Host.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/Screen.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/Screen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/Builder.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/Builder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/Computer.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/Computer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/Director.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/Director.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/HPBuilder.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/HPBuilder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/LenovoBuilder.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/LenovoBuilder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/PrototypePattern/Cell.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/PrototypePattern/Cell.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/PrototypePattern/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/PrototypePattern/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/EnumSingleton.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/EnumSingleton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/InternalSingleton.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/InternalSingleton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/LazySingleton.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/LazySingleton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/LazySingletonEnhence.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/LazySingletonEnhence.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/LockSingleton.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/LockSingleton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/SingletonManager.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/SingletonManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/StaffSingleton.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/StaffSingleton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Adapter/Phone.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Adapter/Phone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Adapter/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Adapter/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Adapter/VoltageAdapter.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Adapter/VoltageAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/BridgePattern/AbstractionComputer.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/BridgePattern/AbstractionComputer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/BridgePattern/Client.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/BridgePattern/Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/BridgePattern/ImplementorBrand.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/BridgePattern/ImplementorBrand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/CompositePattern/Component.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/CompositePattern/Component.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/CompositePattern/Composite.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/CompositePattern/Composite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/CompositePattern/Leaf.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/CompositePattern/Leaf.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/CompositePattern/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/CompositePattern/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/Beverage.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/Beverage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/CondimentDecorator.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/CondimentDecorator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/Espresso.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/Espresso.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/HouseBlend.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/HouseBlend.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/Mocha.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/Mocha.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/Soy.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/Soy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/Amplifier.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/Amplifier.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/HomeTheater.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/HomeTheater.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/Light.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/Light.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/TV.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/TV.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Complex/CompositeTrainTicket.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Complex/CompositeTrainTicket.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Complex/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Complex/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Complex/Ticket.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Complex/Ticket.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Complex/TicketFactory.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Complex/TicketFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Complex/TrainTicket.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Complex/TrainTicket.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Simple/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Simple/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Simple/Ticket.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Simple/Ticket.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Simple/TicketFactory.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Simple/TicketFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Simple/TrainTicket.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Simple/TrainTicket.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/Cglib/ProxyFactory.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/Cglib/ProxyFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/Cglib/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/Cglib/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/Cglib/UserDao.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/Cglib/UserDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/DynamicProxy/ProxyFactory.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/DynamicProxy/ProxyFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/DynamicProxy/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/DynamicProxy/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/RemoteProxy/MyRemote.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/RemoteProxy/MyRemote.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/RemoteProxy/MyRemoteImpl.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/RemoteProxy/MyRemoteImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/RemoteProxy/Proxy.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/RemoteProxy/Proxy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/RemoteProxy/ProxyClient.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/RemoteProxy/ProxyClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/StaticProxy/Test.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/StaticProxy/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/StaticProxy/UserDao.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/StaticProxy/UserDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/StaticProxy/UserDaoImpl.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/StaticProxy/UserDaoImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/StaticProxy/UserDaoProxy.java" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/StaticProxy/UserDaoProxy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dyleaf/structure/readme.md" afterPath="$PROJECT_DIR$/src/com/dyleaf/structure/readme.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,31 +313,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DesignPattern.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPattern.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -105,57 +335,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Act/ItertorPattern/BlackBox/Iterator.java" />
-        <option value="$PROJECT_DIR$/src/Act/ItertorPattern/BlackBox/ConcreteIterator.java" />
-        <option value="$PROJECT_DIR$/src/Act/ItertorPattern/WhiteBox/MyIterator.java" />
-        <option value="$PROJECT_DIR$/src/Act/ItertorPattern/WhiteBox/Iterator.java" />
-        <option value="$PROJECT_DIR$/src/Act/ItertorPattern/WhiteBox/Aggregate.java" />
-        <option value="$PROJECT_DIR$/src/Act/ItertorPattern/WhiteBox/ConcreteAggregate.java" />
-        <option value="$PROJECT_DIR$/src/Act/ItertorPattern/WhiteBox/Test.java" />
-        <option value="$PROJECT_DIR$/src/Act/ItertorPattern/BlackBox/Test.java" />
-        <option value="$PROJECT_DIR$/src/Act/InterpreterPattern/Mediator.java" />
-        <option value="$PROJECT_DIR$/src/Act/InterpreterPattern/Colleague.java" />
-        <option value="$PROJECT_DIR$/src/Act/InterpreterPattern/Cpu.java" />
-        <option value="$PROJECT_DIR$/src/Act/InterpreterPattern/SoundCard.java" />
-        <option value="$PROJECT_DIR$/src/Act/InterpreterPattern/MainBoard.java" />
-        <option value="$PROJECT_DIR$/src/Act/InterpreterPattern/Test.java" />
-        <option value="$PROJECT_DIR$/src/Act/ChainOfResponsibilityPattern/GroupLeader.java" />
-        <option value="$PROJECT_DIR$/src/Act/ChainOfResponsibilityPattern/Boss.java" />
-        <option value="$PROJECT_DIR$/src/Act/ChainOfResponsibilityPattern/LeaveRequest.java" />
-        <option value="$PROJECT_DIR$/src/Act/ChainOfResponsibilityPattern/Leader.java" />
-        <option value="$PROJECT_DIR$/src/Act/ChainOfResponsibilityPattern/Director.java" />
-        <option value="$PROJECT_DIR$/src/Act/ChainOfResponsibilityPattern/Manager.java" />
-        <option value="$PROJECT_DIR$/src/Act/ChainOfResponsibilityPattern/GeneralManager.java" />
-        <option value="$PROJECT_DIR$/src/Act/ChainOfResponsibilityPattern/Test.java" />
-        <option value="$PROJECT_DIR$/src/Act/VistorPattern/Staff.java" />
-        <option value="$PROJECT_DIR$/src/Act/VistorPattern/Visitor.java" />
-        <option value="$PROJECT_DIR$/src/Act/VistorPattern/Manager.java" />
-        <option value="$PROJECT_DIR$/src/Act/VistorPattern/Engineer.java" />
-        <option value="$PROJECT_DIR$/src/Act/VistorPattern/CEOVisitor.java" />
-        <option value="$PROJECT_DIR$/src/Act/VistorPattern/BusinessReport.java" />
-        <option value="$PROJECT_DIR$/src/Act/VistorPattern/Test.java" />
-        <option value="$PROJECT_DIR$/src/Act/TemplateMethodPattern/AbstractPerson.java" />
-        <option value="$PROJECT_DIR$/src/Act/TemplateMethodPattern/Student.java" />
-        <option value="$PROJECT_DIR$/src/Act/TemplateMethodPattern/Teacher.java" />
-        <option value="$PROJECT_DIR$/src/Act/TemplateMethodPattern/Test.java" />
-        <option value="$PROJECT_DIR$/src/Act/MementoPattern/NoteEditText.java" />
-        <option value="$PROJECT_DIR$/src/Act/MementoPattern/Memento.java" />
-        <option value="$PROJECT_DIR$/src/Act/MementoPattern/BlackBox/Memento.java" />
-        <option value="$PROJECT_DIR$/src/Act/MementoPattern/WhiteBox/Caretaker.java" />
-        <option value="$PROJECT_DIR$/src/Act/MementoPattern/WhiteBox/Memento.java" />
-        <option value="$PROJECT_DIR$/src/Act/MementoPattern/WhiteBox/Originator.java" />
-        <option value="$PROJECT_DIR$/src/Act/MementoPattern/WhiteBox/Test.java" />
-        <option value="$PROJECT_DIR$/src/Act/MementoPattern/BlackBox/MemotoIF.java" />
-        <option value="$PROJECT_DIR$/src/Act/MementoPattern/BlackBox/Originator.java" />
-        <option value="$PROJECT_DIR$/src/Act/MementoPattern/BlackBox/Caretaker.java" />
-        <option value="$PROJECT_DIR$/src/Act/MementoPattern/BlackBox/Test.java" />
-        <option value="$PROJECT_DIR$/src/Act/MediatorPattern/ChatRoomMediator.java" />
-        <option value="$PROJECT_DIR$/src/Act/MediatorPattern/User.java" />
         <option value="$PROJECT_DIR$/src/Act/MediatorPattern/Mediator.java" />
         <option value="$PROJECT_DIR$/src/Act/MediatorPattern/CommonUser.java" />
         <option value="$PROJECT_DIR$/src/Act/MediatorPattern/VIPUser.java" />
         <option value="$PROJECT_DIR$/src/Act/MediatorPattern/Test.java" />
         <option value="$PROJECT_DIR$/src/behavior/MediatorPattern/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/Visitor.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/d" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/example2/Colleague.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/example2/Cpu.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/example2/MainBoard.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/example2/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/example2/SoundCard.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/example2/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/MediatorPattern/example2/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/Number.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/Expression.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/InterpreterPattern/Evaluator.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/TemplateMethodPattern/AbstractPerson.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/MediatorPattern/CommonUser.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/MediatorPattern/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/StrategyPattern/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/CommandChange.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/CommandOff.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/CommandOn.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/CommandPattern/Control.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/MementoPattern/WhiteBox/Caretaker.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/StatePattern/StateContext.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/Observer/Police.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/BusinessReport.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/CEOVisitor.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/Engineer.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/CTOVisitor.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/VistorPattern/Manager.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/ChainOfResponsibilityPattern/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/ChainOfResponsibilityPattern/GeneralManager.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/BlackBox/ConcreteAggregate.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/BlackBox/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/RemoteProxy/Proxy.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/TV.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/HouseBlend.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/Product.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/ConcreteProductA.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/ConcreteProductB.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/Factory.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/ConcreteFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/MoreMethodFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/MoreMethodConcreteFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/StaticFactory.java" />
       </list>
     </option>
   </component>
@@ -165,7 +395,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1912" />
     <option name="y" value="387" />
     <option name="width" value="1382" />
@@ -198,8 +428,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,6 +450,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -234,22 +464,23 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\j2se_project\DesignPattern\src\com\dyleaf\structure" />
-      <recent name="F:\j2se_project\DesignPattern\src" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\j2se_project\DesignPattern\src\com\dyleaf\create\FactoryMethodPattern" />
+      <recent name="F:\j2se_project\DesignPattern\lib" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dyleaf.create.FactoryMethodPattern" />
+      <recent name="com.dyleaf.behavior.VistorPattern" />
       <recent name="Act.VistorPattern" />
       <recent name="Act.InterpreterPattern" />
       <recent name="Act.ItertorPattern.WhiteBox" />
-      <recent name="Act.StrategyPattern" />
-      <recent name="Create.AbstarctFactoryPatttern" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\j2se_project\DesignPattern\lib" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\j2se_project\DesignPattern\src\com\dyleaf\structure" />
+      <recent name="F:\j2se_project\DesignPattern\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -264,15 +495,91 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (4)">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Act.ItertorPattern.WhiteBox.*" />
+          <option name="PATTERN" value="com.dyleaf.create.FactoryMethodPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Act.ItertorPattern.WhiteBox.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.dyleaf.create.FactoryMethodPattern.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignPattern" />
+      <envs />
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dyleaf.behavior.ChainOfResponsibilityPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.dyleaf.behavior.ChainOfResponsibilityPattern.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignPattern" />
+      <envs />
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dyleaf.create.PrototypePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.dyleaf.create.PrototypePattern.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignPattern" />
+      <envs />
+    </configuration>
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dyleaf.create.BuilderPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.dyleaf.create.BuilderPattern.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignPattern" />
+      <envs />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dyleaf.structure.FacadePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.dyleaf.structure.FacadePattern.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -518,19 +825,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test (2)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test (3)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test (4)" />
       <item index="2" class="java.lang.String" itemvalue="Application.Test (5)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test (3)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Test (4)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test (4)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test (3)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
         <item index="2" class="java.lang.String" itemvalue="Application.Test (5)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test (4)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -548,12 +855,13 @@
       <option name="presentableId" value="Default" />
       <updated>1519992780547</updated>
       <workItem from="1519992783448" duration="31835000" />
-      <workItem from="1520095972975" duration="18441000" />
+      <workItem from="1520095972975" duration="19643000" />
+      <workItem from="1520150489487" duration="20713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50276000" />
+    <option name="totallyTimeSpent" value="72191000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -565,7 +873,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="387" width="1382" height="744" extended-state="6" />
+    <frame x="1912" y="387" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -575,12 +883,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32125205" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.71499175" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3261944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.84184515" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784185" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -647,414 +956,435 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/behavior/ItertorPattern/WhiteBox/Aggregate.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/behavior/ItertorPattern/BlackBox/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        <state relative-caret-position="242">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/ItertorPattern/WhiteBox/ConcreteAggregate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/ItertorPattern/WhiteBox/ConcreteIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="49" column="1" lean-forward="false" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/ItertorPattern/WhiteBox/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Act/ItertorPattern/WhiteBox/MyIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/ItertorPattern/WhiteBox/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="22" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/ItertorPattern/BlackBox/Aggregate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/ItertorPattern/BlackBox/Iterator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/SingletonPattern/EnumSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/ItertorPattern/BlackBox/ConcreteAggregate.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/PrototypePattern/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/PrototypePattern/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/ItertorPattern/BlackBox/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/InterpreterPattern/Mediator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/InterpreterPattern/Colleague.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/InterpreterPattern/Cpu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/InterpreterPattern/SoundCard.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/Builder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" column="53" lean-forward="false" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          <caret line="12" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/InterpreterPattern/MainBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/InterpreterPattern/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/ChainOfResponsibilityPattern/LeaveRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/ChainOfResponsibilityPattern/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/ChainOfResponsibilityPattern/Leader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/ChainOfResponsibilityPattern/Director.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/ChainOfResponsibilityPattern/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Act/ChainOfResponsibilityPattern/GroupLeader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/ChainOfResponsibilityPattern/GeneralManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/VistorPattern/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/VistorPattern/Engineer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/VistorPattern/Staff.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/Computer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <caret line="9" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/VistorPattern/Visitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/VistorPattern/CEOVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/VistorPattern/BusinessReport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/VistorPattern/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/TemplateMethodPattern/AbstractPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/TemplateMethodPattern/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/TemplateMethodPattern/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/TemplateMethodPattern/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Act/MementoPattern/NoteEditText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/MementoPattern/WhiteBox/Caretaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/MementoPattern/WhiteBox/Memento.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/MementoPattern/WhiteBox/Originator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/MementoPattern/WhiteBox/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/MementoPattern/BlackBox/MemotoIF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/MementoPattern/BlackBox/Originator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/MementoPattern/BlackBox/Caretaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/MementoPattern/BlackBox/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/MediatorPattern/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/MediatorPattern/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/MediatorPattern/ChatRoomMediator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/LenovoBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <caret line="11" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/MediatorPattern/VIPUser.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/HPBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="242">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/MediatorPattern/CommonUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavior/MediatorPattern/Mediator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/Director.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <caret line="9" column="32" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern.iml">
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/BuilderPattern/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/Host.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/FactoryAsus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/FactoryHP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/AbstarctFactoryPatttern/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Complex/CompositeTrainTicket.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Complex/TrainTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/FlyweightPattern/Simple/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/RemoteProxy/MyRemote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/RemoteProxy/MyRemoteImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/RemoteProxy/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/Proxy/RemoteProxy/ProxyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/Amplifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/Light.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/TV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/HomeTheater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/FacadePattern/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="43" lean-forward="true" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/BridgePattern/AbstractionComputer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/CompositePattern/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/CompositePattern/Composite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/CompositePattern/Leaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/CompositePattern/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/CondimentDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/Espresso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/HouseBlend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#108#109#0" expanded="false" />
+            <element signature="e#150#151#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/Mocha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/Soy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/Decorator/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/structure/Adapter/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/MoreMethodFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/ConcreteProductA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/ConcreteProductB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/MoreMethodConcreteFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/StaticFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dyleaf/create/FactoryMethodPattern/ConcreteFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-package behavior.MediatorPattern;
+package com.dyleaf.behavior.MediatorPattern;
 
 public abstract class User {
     protected Mediator mediator;

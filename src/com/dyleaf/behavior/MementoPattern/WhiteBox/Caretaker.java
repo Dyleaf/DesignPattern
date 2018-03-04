@@ -1,9 +1,8 @@
-package behavior.MementoPattern.WhiteBox;
+package com.dyleaf.behavior.MementoPattern.WhiteBox;
 
 public class Caretaker {
 
     private Memento memento;
-
     /**
      * 备忘录的取值方法
      */

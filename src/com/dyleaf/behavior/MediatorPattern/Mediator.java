@@ -1,4 +1,4 @@
-package behavior.MediatorPattern;
+package com.dyleaf.behavior.MediatorPattern;
 
 import java.util.ArrayList;
 import java.util.List;

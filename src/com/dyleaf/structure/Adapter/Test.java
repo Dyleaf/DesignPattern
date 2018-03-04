@@ -1,4 +1,4 @@
-package structure.Adapter;
+package com.dyleaf.structure.Adapter;
 
 public class Test {
     public static void main(String[] args) {

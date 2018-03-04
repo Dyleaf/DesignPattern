@@ -1,4 +1,4 @@
-package behavior.ItertorPattern.BlackBox;
+package com.dyleaf.behavior.ItertorPattern.BlackBox;
 
 public abstract class Aggregate {
     /**

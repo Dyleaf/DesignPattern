@@ -1,4 +1,4 @@
-package behavior.MediatorPattern;
+package com.dyleaf.behavior.MediatorPattern;
 
 public class Test {
     public static void main(String[] args) {
@@ -12,6 +12,5 @@ public class Test {
         chatRoom.addUser(vipUser);
 
         user2.sendMessage("hello everybody~");
-
     }
 }

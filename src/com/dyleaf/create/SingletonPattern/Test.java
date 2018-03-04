@@ -1,4 +1,4 @@
-package create.SingletonPattern;
+package com.dyleaf.create.SingletonPattern;
 
 public class Test {
     public static void main(String[] args) {

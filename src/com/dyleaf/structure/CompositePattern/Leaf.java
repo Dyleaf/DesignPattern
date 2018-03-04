@@ -1,4 +1,4 @@
-package structure.CompositePattern;
+package com.dyleaf.structure.CompositePattern;
 
 public class Leaf extends Component {
 

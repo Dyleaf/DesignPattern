@@ -1,5 +1,5 @@
-package behavior.CommandPattern;
-
+package com.dyleaf.behavior.CommandPattern;
+//频道切换命令ConcreteCommand
 public class CommandChange implements Command{
     private Tv myTv;
     private int channel;

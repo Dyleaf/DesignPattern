@@ -1,4 +1,4 @@
-package structure.Decorator;
+package com.dyleaf.structure.Decorator;
 
 public class Test {
     public static void main(String[] args) {

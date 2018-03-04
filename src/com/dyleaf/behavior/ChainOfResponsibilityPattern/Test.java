@@ -1,6 +1,4 @@
-package behavior.ChainOfResponsibilityPattern;
-
-
+package com.dyleaf.behavior.ChainOfResponsibilityPattern;
 
 public class Test {
     public static void main(String[] args) {

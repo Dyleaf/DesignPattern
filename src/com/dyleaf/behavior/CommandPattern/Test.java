@@ -1,4 +1,4 @@
-package behavior.CommandPattern;
+package com.dyleaf.behavior.CommandPattern;
 
 public class Test {
     public static void main(String[] args) {

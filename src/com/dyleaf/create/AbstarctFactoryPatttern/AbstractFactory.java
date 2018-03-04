@@ -1,4 +1,4 @@
-package create.AbstarctFactoryPatttern;
+package com.dyleaf.create.AbstarctFactoryPatttern;
 
 public abstract class AbstractFactory {
     public abstract Screen createScreen();

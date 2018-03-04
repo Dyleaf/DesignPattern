@@ -1,14 +1,17 @@
-package behavior.InterpreterPattern;
+package com.dyleaf.behavior.InterpreterPattern;
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class Test {
     public static void main(String[] args) {
-        MainBoard mainBoard = new MainBoard();
-        Cpu cpu = new Cpu(mainBoard);
-        SoundCard soundCard = new SoundCard(mainBoard);
-
-        mainBoard.setCpu(cpu);
-        mainBoard.setSoundCard(soundCard);
-
-        cpu.load();
+        String expression = "w x z - +";
+        Evaluator sentence = new Evaluator(expression);
+        Map<String, Expression> variables = new HashMap<String, Expression>();
+        variables.put("w", new Number(5));
+        variables.put("x", new Number(10));
+        variables.put("z", new Number(42));
+        int result = sentence.interpret(variables);
+        System.out.println(result);
     }
 }

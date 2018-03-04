@@ -1,4 +1,4 @@
-package behavior.StrategyPattern;
+package com.dyleaf.behavior.StrategyPattern;
 
 public class DriveStrategy implements IStrategy {
     @Override

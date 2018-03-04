@@ -1,4 +1,4 @@
-package behavior.ItertorPattern.WhiteBox;
+package com.dyleaf.behavior.ItertorPattern.WhiteBox;
 
 public class ConcreteIterator implements Iterator {
     //持有被迭代的具体的聚合对象

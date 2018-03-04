@@ -1,4 +1,4 @@
-package structure.Decorator;
+package com.dyleaf.structure.Decorator;
 
 public abstract class Beverage {
     String description = "Unknown Beverage";

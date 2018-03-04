@@ -1,4 +1,4 @@
-package behavior.CommandPattern;
+package com.dyleaf.behavior.CommandPattern;
 
 //命令接收者Receiver
 public class Tv {

@@ -1,4 +1,4 @@
-package structure.Proxy.StaticProxy;
+package com.dyleaf.structure.Proxy.StaticProxy;
 
 public interface UserDao {
     void save();
